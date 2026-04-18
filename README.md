@@ -1,8 +1,4 @@
-<div align="center">
-  <video width="100%" autoplay muted>
-    <source src="assests/banner.mp4" type="video/mp4">
-  </video>
-</div>
+![Banner](assests/banner.png)
 
 # 💫 About Me:
 👋 Hi, I'm Zain<br><br>🎓 BTech CSE Graduated<br>💻 Full-Stack Developer with a focus on scalable web applications  <br>🚀 Currently building real-world projects and strengthening DSA in C++  <br>📊 Interested in data-driven apps, analytics dashboards, and AI integrations  <br><br>🛠️ Tech Stack:<br>- Frontend: React, Redux Toolkit, Tailwind CSS  <br>- Backend: Node.js, Express.js  <br>- Database: MongoDB, PostgreSQL  <br>- Tools: Git, GitHub, Postman  <br><br>📌 Currently:<br>- Working on full-stack projects <br>- Learning backend architecture & system design basics<br>- Practicing DSA for placements  <br><br>📫 Reach me: [www.linkedin.com/in/dev-mohdzain] | [mohammedzain4099@gmail.com]
